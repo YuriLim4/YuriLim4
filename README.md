@@ -2,6 +2,12 @@
 
 ###
 
+👨‍💻 Currently working on [Estrelabet](https://www.estrelabet.bet.br/pb)<br>
+👨‍🎓 Studying cybersecurity techniques <br>
+⌚ Working with technology since 2016 <br>
+📚 Learning and Sharing <br>
+👨‍👩‍👧 Father, husband, cyber hunter, hacker, gamer and coffee lover.
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yurilim4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurilim4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
