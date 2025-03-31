@@ -1,84 +1,15 @@
-<img align="right" height="590cm" src="https://raw.githubusercontent.com/gist/YuriLim4/530665dc502c372cc7c0751195f2aac1/raw/e1e653e5f58f2be1c7c35cf0e5cb70f0be191932/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, I'm Yuri Lima</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yurilim4&color=orange" alt="Profile views" /> </p>
 
-- 💻 Cabersecurity Analyst
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YuriLim4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YuriLim4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLim4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working at [EstrelaBet](https://estrelabet.com/pb#/overview)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YuriLim4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning [Python](https://www.python.org/)&nbsp;
-<!--
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+---
+[![](https://visitcount.itsvg.in/api?id=YuriLim4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
-
-
-<br><br>
--->
-## 🛠 &nbsp;Tech Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/Angular-05122A?logo=angular&logoColor=red)&nbsp;
-<!--
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-
--->
-## 📞 Contact
-<!--
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/yurilim4" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-YuriLim4-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/yurilim4" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-YuriLim4-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
--->
-<a href="https://linkedin.com/in/yurilim4" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-YuriLim4-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/yurilim4" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-YuriLim4-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/yurilim4" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-YuriLim4-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
