@@ -3,7 +3,7 @@
 ###
 
 👨‍💻 Currently working on [Estrelabet](https://www.estrelabet.bet.br/pb)<br>
-👨‍🎓 Studying cybersecurity techniques <br>
+👨‍🎓 Studying cybersecurity in my [repository](https://github.com/YuriLim4/cybersecurity) <br>
 ⌚ Working with technology since 2016 <br>
 📚 Learning and Sharing <br>
 👨‍👩‍👧 Father, husband, cyber hunter, hacker, gamer and coffee lover.
