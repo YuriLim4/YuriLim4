@@ -2,17 +2,6 @@
 
 ###
 
-👨‍💻 Currently working on [Estrelabet](https://www.estrelabet.bet.br/pb)<br>
-👨‍🎓 Studying cybersecurity in my [repository](https://github.com/YuriLim4/cybersecurity) <br>
-⌚ Working with technology since 2016 <br>
-📚 Learning and Sharing <br>
-👨‍👩‍👧 Father, husband, cyber hunter, hacker, gamer and coffee lover.
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yurilim4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurilim4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h2 align="center">💻TechSkills</h2>
@@ -93,13 +82,7 @@
 ###
 
 <br clear="both">
-<h2 align="center">💀You're a Hacker? I'm hunter!</h2>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurilim4/yurilim4/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurilim4/yurilim4/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yurilim4/yurilim4/output/github-snake.svg" />
-</picture>
-</p>
+
+<img src="https://raw.githubusercontent.com/yurilim4/yurilim4/output/snake.svg" alt="Snake animation" />
 
 ###
