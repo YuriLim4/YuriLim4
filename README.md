@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋! My name is Yuri, i'm a Cybersecurity Analyst.</h2>
 
 ###
-
+👨‍💻 Currently working on [Estrelabet](https://www.estrelabet.bet.br/pb).<br>
+👨‍🎓 Studying cybersecurity in my [repo](https://github.com/YuriLim4/cybersecurity).<br>
+⌚ Working with technology since 2016. <br>
+📚 Learning and Sharing.<br>
+👨‍👩‍👧 Father, husband, cyber hunter, hacker, gamer and coffee lover.
 ###
 
 <h2 align="center">💻TechSkills</h2>
