@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yuri, i'm a Cybersecurity Analyst.</h2>
+<h2 align="center">Hi 👋! My name is Yuri, i'm a Cybersecurity Analyst</h2>
 
 ###
 👨‍💻 Currently working on [Estrelabet](https://www.estrelabet.bet.br/pb).<br>
